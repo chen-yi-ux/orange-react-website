@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/orange-react-website/static/css/main.e461546b.chunk.css",
+    "main.js": "/orange-react-website/static/js/main.8ad61718.chunk.js",
+    "main.js.map": "/orange-react-website/static/js/main.8ad61718.chunk.js.map",
+    "runtime-main.js": "/orange-react-website/static/js/runtime-main.438f198f.js",
+    "runtime-main.js.map": "/orange-react-website/static/js/runtime-main.438f198f.js.map",
+    "static/css/2.a95be28f.chunk.css": "/orange-react-website/static/css/2.a95be28f.chunk.css",
+    "static/js/2.0d5b4dcf.chunk.js": "/orange-react-website/static/js/2.0d5b4dcf.chunk.js",
+    "static/js/2.0d5b4dcf.chunk.js.map": "/orange-react-website/static/js/2.0d5b4dcf.chunk.js.map",
+    "static/js/3.d2838c71.chunk.js": "/orange-react-website/static/js/3.d2838c71.chunk.js",
+    "static/js/3.d2838c71.chunk.js.map": "/orange-react-website/static/js/3.d2838c71.chunk.js.map",
+    "index.html": "/orange-react-website/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/orange-react-website/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.e461546b.chunk.css.map": "/orange-react-website/static/css/main.e461546b.chunk.css.map",
+    "static/js/2.0d5b4dcf.chunk.js.LICENSE.txt": "/orange-react-website/static/js/2.0d5b4dcf.chunk.js.LICENSE.txt",
+    "static/media/index.417e6e35.less": "/orange-react-website/static/media/index.417e6e35.less",
+    "static/media/index.9a459e78.less": "/orange-react-website/static/media/index.9a459e78.less",
+    "static/media/index.e90871b5.less": "/orange-react-website/static/media/index.e90871b5.less",
+    "static/media/index.f1fb0a72.less": "/orange-react-website/static/media/index.f1fb0a72.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.438f198f.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.0d5b4dcf.chunk.js",
+    "static/css/main.e461546b.chunk.css",
+    "static/js/main.8ad61718.chunk.js"
+  ]
+}
